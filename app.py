@@ -38,6 +38,7 @@ def fact_cmd(ack, body, client):
     fact = random.choice(facts["fun"])
     add_coins(user, 1)
 
+
     client.chat_postMessage(
         channel=body["channel_id"],
         blocks=[
