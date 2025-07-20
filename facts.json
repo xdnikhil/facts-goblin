@@ -1,0 +1,39 @@
+{
+    "fun" : [
+        "Octopuses have three hearts.",
+        "Bananas are berries, but strawberries are not",
+        "Venus spins backwards.",
+        "There are more starts than grains of sand on Earth.",
+        "A day on Venus is longer than a year on Venus.",
+        "Honey never spoils.",  
+        "Wombat poop is cube-shaped.",
+        "A group of flamingos is called a 'flamboyance'.",
+        "A jiffy is an actual unit of time.",   
+        "A snail can sleep for three years.",
+        "A bolt of lightning is five times hotter than the surface of the sun.",
+        "A day on Mercury lasts 59 Earth days.",
+        "A blue whale's heart is the size of a small car.",
+        "A group of crows is called.",
+        "A flock of flamingos can weigh up to 20 pounds.",
+        "A group of owls is called a parliament.",
+        "A group of jellyfish is called a smack.",
+        "A group of frogs is called an army.",
+        "A group of rhinos is called a crash."
+],
+
+    "deep": [
+        "Octopuses have three hearts, nine brains, and blue blood.",
+        "Bananas are berries, but strawberries are not; bananas grow on large herbaceous plants.",
+        "Venus spins backwards, meaning the sun rises in the west and sets in the east.",
+        "There are more stars in the universe than grains of sand on all the beaches on Earth combined.",
+        "A day on Venus lasts longer than a year on Venus due to its slow rotation on its axis.",
+        "Honey never spoils because it has natural preservatives and low moisture content.",
+        "Wombat poop is cube-shaped to prevent it from rolling away, helping mark their territory.",
+        "A group of flamingos is called a 'flamboyance', reflecting their vibrant color and social behavior.",
+        "A jiffy is an actual unit of time, equal to 1/100th of a second in physics.",
+        "A snail can sleep for three years during periods of drought or unfavorable conditions.",
+        "A bolt of lightning is five times hotter than the surface of the sun, reaching temperatures around 30,000 Kelvin.",
+        "A day on Mercury lasts 59 Earth days due to its slow rotation and close orbit to the sun.",
+        "A blue whale's heart can weigh as much as 400 pounds and is about the size of a small car."
+    ]
+}
