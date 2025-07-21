@@ -37,10 +37,8 @@ Join Slack Channel : #Fax-Goblin ( C096TL94EV6 ) in order to experience this bot
 ```
 
 ## Photos
-<br>
-[https://i.ibb.co/JwSwkHdj/Screenshot-4.png](https://i.ibb.co/JwSwkHdj/Screenshot-4.png)
-<br>
-[https://i.ibb.co/yFYmgvg3/Screenshot-5.png](https://i.ibb.co/yFYmgvg3/Screenshot-5.png)
+![Basic](https://i.ibb.co/JwSwkHdj/Screenshot-4.png)
+![Basix](https://i.ibb.co/yFYmgvg3/Screenshot-5.png)
 
 
 ## Credits
