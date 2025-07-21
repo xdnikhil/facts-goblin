@@ -38,9 +38,9 @@ Join Slack Channel : #Fax-Goblin ( C096TL94EV6 ) in order to experience this bot
 
 ## Photos
 <br>
-![Screenshop of pterodactyl](https://i.ibb.co/JwSwkHdj/Screenshot-4.png)
+[!Screenshop of pterodactyl](https://i.ibb.co/JwSwkHdj/Screenshot-4.png)
 <br>
-![Screenshop of Slack Channel](https://i.ibb.co/yFYmgvg3/Screenshot-5.png)
+[!Screenshop of Slack Channel](https://i.ibb.co/yFYmgvg3/Screenshot-5.png)
 
 
 ## Credits
